@@ -23,7 +23,7 @@ var lyricsData = [
   { text: "Hey!!!", time: 72, duration: 5 },
   { text: "Como amiga quisiera regalarte estas flores", time: 75, duration: 6 },
   { text: "Que aunque no son reales", time: 80, duration: 5 },
-  { text: "son hechas con todo mi corazon", time: 85, duration: 5 },
+  { text: "son hechas con todo mi corazón", time: 85, duration: 5 },
   { text: "No queria que seas espectadora 😄😅", time: 90, duration: 5 },
   { text: "Asi que ahi tienes tus flores amarillas", time: 94, duration: 5 },
   { text: "Te quiere", time: 99, duration: 5 },
